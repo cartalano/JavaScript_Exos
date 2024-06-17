@@ -1,5 +1,4 @@
-/* becode/javascript
- *
+/* becode/javascrip
  * /03-colors/01-change-bcg-one/script.js - 3.1: couleur de fond (1)
  *
  * coded by leny@BeCode
@@ -24,3 +23,7 @@
     document.body.style.backgroundColor="blue"
     })
 })();
+
+let monNom = Nicolas;
+
+console.log(monNom);
