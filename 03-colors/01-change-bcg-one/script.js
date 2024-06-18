@@ -23,7 +23,3 @@
     document.body.style.backgroundColor="blue"
     })
 })();
-
-let monNom = Nicolas;
-
-console.log(monNom);
